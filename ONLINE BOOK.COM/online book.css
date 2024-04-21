@@ -1,0 +1,169 @@
+*{
+    font-family:monospace
+}
+header{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(pexels-pixabay-159866.jpg);
+    background-size: cover;
+    height: 600px;
+    
+}
+
+
+.left{
+/* border: 2px red solid; */
+display: inline-block;
+}
+.mid{
+/* border: 2px red solid; */
+display: inline-block;
+margin-left: 235px;
+position: relative;
+top: -12px;
+}
+.right{
+/* border: 2px red solid; */
+display: inline-block;
+float: right;
+margin-top: 28px;
+margin-right: 23px;
+
+}
+.mid ul li{
+display: inline;
+padding: 45px;
+}
+.mid ul li a{
+color:#6f533b;
+text-decoration: none;
+font-size: 25px;
+}
+.mid ul li a:hover{
+color: blueviolet;
+text-decoration:underline;
+}
+.left img{
+height: 100px;
+width: 100px;
+margin: 6px;
+margin-left: 19px;
+border-radius: 37px;
+}
+.name{
+display: inline;
+color: rgb(5, 6, 93);
+font-size: 22px;
+position: absolute;
+left:8px;
+top: 90px;
+font-family: cursive;
+}
+.right button{
+background-color: burlywood;
+color: white;
+font-size: 16px;
+border-radius: 7px;
+cursor: pointer;
+
+
+}
+.right button:hover{
+background-color: wheat;
+border-color: rgb(37, 183, 102);
+color: rgb(65, 202, 158) ;
+font-size: 17px;
+}
+.container1{
+/* border: solid black 2px; */
+border-radius: 20px;
+margin-left: 400px;
+margin-top: 70px;
+display: inline-block;
+}
+.container1 form input{
+font-size: 21px;
+width: 700px;
+border-radius: 15px;
+padding: 5px;
+}
+.container1 form input:hover{
+border: 1px solid wheat;
+}
+.bt1{
+float: right;
+padding-right: 250px;
+padding-top: 71px;
+display: inline-block;
+}
+.bt1 button{
+font-size: 17px;
+color: aliceblue;
+background-color: #4e8514;
+border-radius: 13px;
+padding: 6px;
+cursor: pointer;
+
+}
+.bt1 button:hover{
+background-color: yellowgreen;
+font-size: 18px;
+}
+.new{
+background-color: skyblue;
+
+}
+span{
+padding-left: 37px;
+margin: 14px;
+position: relative;
+top: -150px;
+}
+span img{
+height: 450px;
+weidth: 350px;
+border-radius: 8px;
+}
+.latest{
+position: relative;
+font-size: 30px;
+font-weight: 600;
+top: -170px;
+color: black;
+padding-left: 50px;
+}
+.new1{
+padding-top: 10px;
+}
+h2{
+position:relative;
+top: -155px;
+padding-left: 50px;
+font-size: 30px;
+}
+span img:hover{
+height: 451px;
+}
+footer{
+background-color: black;
+
+
+}
+.fast{
+font-size: 25px;
+color: white;
+display: inline-block;
+}
+.fast1{
+font-size: 25px;
+color: white;
+display: inline-block;
+margin-left: 350px;
+}
+.fast2{
+font-size: 25px;
+color: white;
+display: inline-block;
+float: right;
+
+}
